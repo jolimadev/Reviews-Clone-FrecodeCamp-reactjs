@@ -1,8 +1,9 @@
 # Getting Started with Create React App
 <h1>ReactJs Course, Proyecto n|1 del curso realizado con FreeCodeCamp ES</h1>
 
+<h2>En este proyecto me he capacitado en: </h2>
 
-¿Qué es React? Ventajas de React
+#¿Qué es React? Ventajas de React
 Conceptos Básicos para React
  Descargar e Instalar Node.js
  Documentación Oficial de React
